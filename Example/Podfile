@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BGPickerView_Example' do
+  pod 'BGPickerView', :path => '../'
+
+  target 'BGPickerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
