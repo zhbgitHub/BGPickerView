@@ -1,0 +1,16 @@
+PODS:
+  - BGPickerView (0.1.0)
+
+DEPENDENCIES:
+  - BGPickerView (from `../`)
+
+EXTERNAL SOURCES:
+  BGPickerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BGPickerView: 476cb268a49bfe4d808e58cbbcfd484f84401cfe
+
+PODFILE CHECKSUM: 3dcd2f84f838e6464cb3bc59ad9c31955e9d65b2
+
+COCOAPODS: 1.2.0

@@ -2,8 +2,8 @@
 //  BGPickerViewTests.m
 //  BGPickerViewTests
 //
-//  Created by zhbgitHub on 05/08/2017.
-//  Copyright (c) 2017 zhbgitHub. All rights reserved.
+//  Created by iOSzhb on 05/08/2014.
+//  Copyright (c) 2014 iOSzhb. All rights reserved.
 //
 
 @import XCTest;
